@@ -12,7 +12,9 @@ Covid-19 pandemic has caused layoff industry-wide, and even the most high-flying
 
 ## Data Source
 Data Source are mainly pulled from the below sources:
+
 Company Hiring Status:Candor
+
 Company demographics information and funding status: Crunchbase
 
 ## Prediction Model
