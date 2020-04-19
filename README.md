@@ -1,4 +1,5 @@
 # COVID 2019 Challenge - Who's Hiring
+![COVID 19 Challenge](https://user-images.githubusercontent.com/57570355/79680068-767f9c80-81c0-11ea-873a-0db9a7681046.jpg)
 
 
 During the special time period of Corona Virus pandemic, it has been especially tough for graduating students and professionals to successfuly land a job. We want to take the initiative to offer help by providing strategic recommendations in job search and accepting offers. Through examining the company's demographic information and funding stauts, we build machine learning models with H2O framework targeting at predicting the future hiring status of companies in the job market in hope to mitigate risks of receiving offer revokes and maximize job search opportunity efficiency during such a hard time.
@@ -26,13 +27,14 @@ Gini Index: 97%
 
 =============
 Recommendations
-Based on the modeling results, we reccommend that job seekers keep in mind the follow suggestions: For job seekers:
+Based on the modeling results, we reccommend that job seekers keep in mind the follow suggestions: 
 
+For job seekers:
 Seek companies already reached round B of funding
 Consider companies with longer operating history
 Business-Facing Companies, Finance and Security Industry are promising
-For policy makers and state governors:
 
+For policy makers and state governors:
 Keep an eye on vulnerable industries, consider subsidizing Customer-facing education, retail, and social media industries
 Encourage states to diversify industries
-=============
+
